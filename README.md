@@ -6,7 +6,7 @@ The data is related to direct marketing campaigns of a Portuguese banking instit
 
 <h2> Objective </h2>
 1. Maximize the sales of bank deposit product to increase the revenue of bank.
-
+<br>
 
 
 <b> Dataset : </b>	bank-full.csv
