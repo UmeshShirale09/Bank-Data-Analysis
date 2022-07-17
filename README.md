@@ -7,6 +7,8 @@ The data is related to direct marketing campaigns of a Portuguese banking instit
 <h2> Objective </h2>
 1. Maximize the sales of bank deposit product to increase the revenue of bank.
 
+
+
 <b> Dataset : </b>	bank-full.csv
 
 <b> Dataframe Shape :	</b> 45211 rows, 17 columns
