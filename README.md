@@ -21,7 +21,7 @@ The data is related to direct marketing campaigns of a Portuguese banking instit
 Attribute Information:
 Input variables:
 # bank client data:
-1 - age (numeric)
+1 - age (numeric) <br>
 2 - job : type of job (categorical:
 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','t
 echnician','unemployed','unknown')
